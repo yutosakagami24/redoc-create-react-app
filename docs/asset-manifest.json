@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/redoc-create-react-app/static/css/main.3fe2925c.chunk.css",
+    "main.js": "/redoc-create-react-app/static/js/main.eaa7d48c.chunk.js",
+    "main.js.map": "/redoc-create-react-app/static/js/main.eaa7d48c.chunk.js.map",
+    "runtime-main.js": "/redoc-create-react-app/static/js/runtime-main.9c6c998a.js",
+    "runtime-main.js.map": "/redoc-create-react-app/static/js/runtime-main.9c6c998a.js.map",
+    "static/js/2.f3188e45.chunk.js": "/redoc-create-react-app/static/js/2.f3188e45.chunk.js",
+    "static/js/2.f3188e45.chunk.js.map": "/redoc-create-react-app/static/js/2.f3188e45.chunk.js.map",
+    "static/js/3.65ab47cb.chunk.js": "/redoc-create-react-app/static/js/3.65ab47cb.chunk.js",
+    "static/js/3.65ab47cb.chunk.js.map": "/redoc-create-react-app/static/js/3.65ab47cb.chunk.js.map",
+    "index.html": "/redoc-create-react-app/index.html",
+    "static/css/main.3fe2925c.chunk.css.map": "/redoc-create-react-app/static/css/main.3fe2925c.chunk.css.map",
+    "static/js/2.f3188e45.chunk.js.LICENSE.txt": "/redoc-create-react-app/static/js/2.f3188e45.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/redoc-create-react-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c6c998a.js",
+    "static/js/2.f3188e45.chunk.js",
+    "static/css/main.3fe2925c.chunk.css",
+    "static/js/main.eaa7d48c.chunk.js"
+  ]
+}
